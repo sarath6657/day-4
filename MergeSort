@@ -1,6 +1,4 @@
 public class MergeSort {
-
-    // Main method to start the program
     public static void main(String[] args) {
         int[] arr = {38, 27, 43, 3, 9, 82, 10};  // Sample array to be sorted
 
